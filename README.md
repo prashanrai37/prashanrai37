@@ -41,3 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>
 </div>
 
+## Stats
+
+[![Prashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanrai37)](https://github.com/anuraghazra/github-readme-stats)
