@@ -14,7 +14,7 @@
 🌱 I’m currently learning Reactjs and CSS frameworks.\
 🌍 I'm based in London.\
 📚 Most experienced within JavaScript, HTML, CSS/CSS frameworks, Python and Java.\
-💻 Well familliar with working in a group using methodologies such as AGILE, SCRUM, Github and various Code Testing methods.\
+💻 Well familliar with working in a group using methodologies such as AGILE, SCRUM, Github and various Code Testing methods.
 
 📫 How to reach me : @ [prashanrai.com]("prashanrai.com")
 
